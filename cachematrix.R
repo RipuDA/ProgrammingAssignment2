@@ -1,6 +1,3 @@
-## Put comments here that give an overall description of what your
-## functions do
-
 ## This function creates a special "matrix" object and retruns a list of fucntions
 ## for setting the value of matrix, getting the value of matrix
 ## setting the value of inverse of matrix
